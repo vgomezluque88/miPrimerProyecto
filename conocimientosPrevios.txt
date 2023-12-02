@@ -4,3 +4,4 @@ Mis conocimientos:
     3. JS / JQUERY 
     4. Nivel bajo laravel 
     5. Nivel bajo gastby / angular 
+    6. CSS / SCSS  
